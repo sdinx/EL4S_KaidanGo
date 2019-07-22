@@ -24,5 +24,12 @@
 			"Name": "SteamVR",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"IOS",
+		"MacNoEditor",
+		"WindowsNoEditor"
 	]
 }
